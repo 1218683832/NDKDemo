@@ -11,6 +11,8 @@ captures/*.li
 /gradlew.bat
 /gradle/wrapper
 /gradle.properties
+*/.externalNativeBuild
+*/intermediates
 
 
 # IDEA  
